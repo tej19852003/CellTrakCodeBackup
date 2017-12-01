@@ -1,0 +1,137 @@
+1
+00:00:00,000 --> 00:00:05,000
+Selected environment has value Y
+
+2
+00:00:06,000 --> 00:00:09,000
+Selected browser has value Y
+
+3
+00:00:10,000 --> 00:00:13,000
+Selected module has value Y
+
+4
+00:00:14,000 --> 00:00:18,000
+Record Activity testcases
+
+5
+00:00:19,000 --> 00:00:26,000
+Selected testcase has value Y
+For demo we are just running 3 testcases
+
+6
+00:00:28,000 --> 00:00:31,000
+Jenkins home page
+
+7
+00:00:33,000 --> 00:00:37,000
+Click RecordActivityDriverTest to start the test run
+
+8
+00:00:38,000 --> 00:00:41,000
+Test run started
+
+9
+00:00:42,000 --> 00:00:48,000
+Displays Console Output Logs
+
+10
+00:00:51,000 --> 00:00:58,000
+Downloading and compiling required code files...
+
+11
+00:01:05,000 --> 00:01:15,000
+Selected testcases execution started...
+
+12
+00:01:15,000 --> 00:01:17,000
+IE Launched! You can see that in the taskbar
+
+13
+00:01:27,000 --> 00:01:30,000
+IE opens up
+
+14
+00:01:30,000 --> 00:01:34,000
+Login to OTP
+
+15
+00:01:35,000 --> 00:01:37,000
+Verifying Dashboard page
+
+16
+00:01:39,000 --> 00:01:42,000
+Verifying Admin page
+
+17
+00:01:50,000 --> 00:01:53,000
+Verifying Current Activities page
+
+18
+00:01:58,000 --> 00:02:00,000
+Record activity started..
+
+19
+00:02:05,000 --> 00:02:10,000
+Entering required details
+
+20
+00:02:17,000 --> 00:02:20,000
+Searches for imported SPV created by Selenium..
+
+21
+00:02:27,000 --> 00:02:30,000
+Imported SPV can also be seen in the logs
+
+22
+00:02:33,000 --> 00:02:35,000
+Selecting the desired SPV
+
+23
+00:02:40,000 --> 00:02:45,000
+On a new window Patient Page opens up to verify Imported Address
+
+24
+00:02:56,000 --> 00:02:58,000
+Verifying Address
+
+25
+00:02:59,000 --> 00:03:03,000
+Back to Record Activity Page
+
+26
+00:03:06,000 --> 00:03:11,000
+Verifying Activity Start, End Date and Duration
+
+27
+00:03:12,000 --> 00:03:14,000
+Verifying Finish Activity Page
+
+28
+00:03:24,000 --> 00:03:26,000
+Verifying required Text
+
+29
+00:03:27,000 --> 00:03:41,000
+Entering required inputs
+
+30
+00:03:46,000 --> 00:03:50,000
+Displays Current Activities Page
+
+31
+00:03:54,000 --> 00:04:14,000
+Entering filter criteria to search Finished Activities
+
+32
+00:04:18,000 --> 00:04:32,000
+Verifying output result
+
+33
+00:04:33,000 --> 00:04:38,000
+Logout from OTP and close the browser
+
+34
+00:04:47,000 --> 00:04:53,000
+Excel shows execution status separately
+
